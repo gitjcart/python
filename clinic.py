@@ -28,3 +28,5 @@ def clinic():
         print "you didn't pick a number! Try again.."
         clinic()
 clinic()
+
+# inserted to see how it feels
